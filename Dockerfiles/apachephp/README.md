@@ -158,4 +158,4 @@ It's amazing, we've  just deployed 20 containers and balance them throught two n
 **Magically Docker Swarm create again a new one container thanks to restart_policy: condition: on-failure**
 
 
-> Thanks a lot Tlacuaches Project.
+> This post was inspired by Tlacuaches Project
