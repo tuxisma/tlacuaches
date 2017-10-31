@@ -138,8 +138,7 @@ Into your swarm manager:
 `
 docker node ls
 `
-![alt text](https://farm5.staticflickr.com/4478/37659051851_9cf5646a67_b.jpg "docker node ls")
-
+![Image of swarm init](https://farm5.staticflickr.com/4478/37659051851_0c9a3a81a9_b.jpg)
 
 ### Deploy service:
 `docker stack deploy -c docker-compose.yml app
